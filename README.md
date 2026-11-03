@@ -1,4 +1,4 @@
-# boosthis-com
+# Boosthis
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,109 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-boosthis-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://boosthis.com/
+Boosthis provides application performance monitoring across twelve programming languages, identifying slow code paths and offering AI‑driven recommendations for fixes. Their platform helps developers optimize apps with detailed metrics, actionable insights, and automated remediation suggestions, aiming to improve speed and reliability for modern software stacks.
+
+**Areas:** App Performance · Developer Tools · Web Performance · AI Assistant
+
+## Boosthis on APIs.io
+
+Everything profiled for Boosthis is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/boosthis-com/](https://apis.io/providers/boosthis-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Boosthis API](https://apis.io/apis/boosthis-com/boosthis-api/) — Boosthis provides an API for accessing performance monitoring data and AI-driven recommendations. Documentation is at the Connect your AI page.
+- [Boosthis API](https://apis.io/apis/boosthis-com/boosthis-com-api/) — Boosthis API as documented publicly: 2 operations. Contract generated from the documentation by API Evangelist (2026-11-03); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Boosthis API Rules](https://apis.io/rules/boosthis-com/boosthis-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Boosthis Com Domain Security](https://apis.io/security/boosthis-com/boosthis-com-domain-security/)
+- [Boosthis Com Vulnerability Disclosure](https://apis.io/security/boosthis-com/boosthis-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Boosthis Com Plans Pricing](https://apis.io/plans/boosthis-com/boosthis-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.boosthis.com/)
+- [Documentation](https://www.boosthis.com/docs/connect-your-ai)
+- [Pricing](https://www.boosthis.com/pricing)
+- [Support](https://www.boosthis.com/help)
+- [Security](https://www.boosthis.com/trust#reporting)
+- [Trust centre](https://www.boosthis.com/trust)
+- [Terms of service](https://www.boosthis.com/terms)
+- [Privacy policy](https://www.boosthis.com/terms#privacy-policy)
+- [GitHub](https://github.com/Boosthis)
+- [Status](https://www.boosthis.com/status)
+
+## API Evangelist rating
+
+**Kin Score 48.5** — developing · rubric 0.26.0 · scored 2026-11-03
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.3 |
+| Contract quality | 33.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 81.1 |
+
+**Agent readiness 36.1** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 35.3** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/boosthis-com/](https://apis.io/providers/boosthis-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Boosthis: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/boosthis-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
